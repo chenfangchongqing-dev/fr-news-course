@@ -1,0 +1,39 @@
+name: Collect Xinhua FR and prepare ZH matching
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  collect-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4
+
+      - name: Collect French sources and prepare Chinese matching
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: |
+          python tools/collect_xinhua_parallel_candidates.py
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Xinhua FR-ZH parallel candidates"
+          file_pattern: "data/rss/*.json data/candidates/*.js data/candidates/*.csv"
