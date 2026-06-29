@@ -1,21 +1,21 @@
 window.XINHUA_FR_ZH_CANDIDATES = [
   {
-    "id": "xinhua-parallel-2026-06-21-la-russie-frappe-un-aérodrome-militaire-et-des-i",
+    "id": "xinhua-parallel-2026-06-28-lallemagne-enregistre-de-nouvelles-températures-",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Russie frappe un aérodrome militaire et des infrastructures de transport de l'Ukraine",
+    "title_fr": "L'Allemagne enregistre de nouvelles températures record pour la troisième journée consécutive",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260621/ab772742a53d4a3d870d0326ec1d0e64/c.html",
-    "published_fr": "2026-06-21",
-    "zh_keywords": "新华社 欧洲 俄罗斯 乌克兰 Europe Russie Ukraine",
-    "zh_search_query_broad": "新华社 欧洲 俄罗斯 乌克兰 Europe Russie Ukraine",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Russie%20Ukraine",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Russie%20Ukraine",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Russie%20Ukraine",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 俄罗斯 乌克兰 Europe Russie Ukraine 2026-06-21",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Russie%20Ukraine%202026-06-21",
+    "url_fr": "https://french.news.cn/20260628/f5b7b53f90384a578dbe6598ab56b7c2/c.html",
+    "published_fr": "2026-06-28",
+    "zh_keywords": "新华社 欧洲 德国 Europe L'Allemagne",
+    "zh_search_query_broad": "新华社 欧洲 德国 Europe L'Allemagne",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20L%27Allemagne",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20L%27Allemagne",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20L%27Allemagne",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 德国 Europe L'Allemagne 2026-06-28",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20L%27Allemagne%202026-06-28",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -26,26 +26,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-21-à-vivatech-les-solutions-chinoises-pour-linnovat",
+    "id": "xinhua-parallel-2026-06-28-france-11-morts-après-le-crash-dun-aéronef-civil",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "À VivaTech, les solutions chinoises pour l'innovation s'affichent à Paris (REPORTAGE)",
+    "title_fr": "France : 11 morts après le crash d'un aéronef civil dans le nord-est (presse)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260621/16c5cf06ea8c4cb4ab7a4b7ee9f9f62e/c.html",
-    "published_fr": "2026-06-21",
-    "zh_keywords": "新华社 中国 欧洲 Europe VivaTech Paris REPORTAGE",
-    "zh_search_query_broad": "新华社 中国 欧洲 Europe VivaTech Paris REPORTAGE",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E4%B8%AD%E5%9B%BD%20%E6%AC%A7%E6%B4%B2%20Europe%20VivaTech%20Paris%20REPORTAGE",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E4%B8%AD%E5%9B%BD%20%E6%AC%A7%E6%B4%B2%20Europe%20VivaTech%20Paris%20REPORTAGE",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E4%B8%AD%E5%9B%BD%20%E6%AC%A7%E6%B4%B2%20Europe%20VivaTech%20Paris%20REPORTAGE",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 中国 欧洲 Europe VivaTech Paris REPORTAGE 2026-06-21",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E4%B8%AD%E5%9B%BD%20%E6%AC%A7%E6%B4%B2%20Europe%20VivaTech%20Paris%20REPORTAGE%202026-06-21",
+    "url_fr": "https://french.news.cn/20260628/0b74c46392454e279397d4bbb7df4586/c.html",
+    "published_fr": "2026-06-28",
+    "zh_keywords": "新华社 欧洲 法国 Europe France",
+    "zh_search_query_broad": "新华社 欧洲 法国 Europe France",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 Europe France 2026-06-28",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%202026-06-28",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -56,26 +56,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-21-la-première-ministre-italienne-meloni-réplique-à",
+    "id": "xinhua-parallel-2026-06-28-lukraine-frappe-deux-raffineries-de-pétrole-en-r",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Première ministre italienne Meloni réplique à Trump suite à ses critiques",
+    "title_fr": "L'Ukraine frappe deux raffineries de pétrole en Russie (Zelensky)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260621/a74e59f579764ab5a3e35f3beae95b5a/c.html",
-    "published_fr": "2026-06-21",
-    "zh_keywords": "新华社 欧洲 意大利 欧盟 部长 特朗普 梅洛尼 Europe Première Meloni",
-    "zh_search_query_broad": "新华社 欧洲 意大利 欧盟 部长 特朗普 梅洛尼 Europe Première Meloni",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AC%A7%E7%9B%9F%20%E9%83%A8%E9%95%BF%20%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Premi%C3%A8re%20Meloni",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AC%A7%E7%9B%9F%20%E9%83%A8%E9%95%BF%20%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Premi%C3%A8re%20Meloni",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AC%A7%E7%9B%9F%20%E9%83%A8%E9%95%BF%20%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Premi%C3%A8re%20Meloni",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 意大利 欧盟 部长 特朗普 梅洛尼 Europe Première Meloni 2026-06-21",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AC%A7%E7%9B%9F%20%E9%83%A8%E9%95%BF%20%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Premi%C3%A8re%20Meloni%202026-06-21",
+    "url_fr": "https://french.news.cn/20260628/46a7786b82b94e2ba3f033bf9e9fce23/c.html",
+    "published_fr": "2026-06-28",
+    "zh_keywords": "新华社 欧洲 俄罗斯 乌克兰 泽连斯基 Europe L'Ukraine Russie Zelensky",
+    "zh_search_query_broad": "新华社 欧洲 俄罗斯 乌克兰 泽连斯基 Europe L'Ukraine Russie Zelensky",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20L%27Ukraine%20Russie%20Zelensky",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20L%27Ukraine%20Russie%20Zelensky",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20L%27Ukraine%20Russie%20Zelensky",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 俄罗斯 乌克兰 泽连斯基 Europe L'Ukraine Russie Zelensky 2026-06-28",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B9%8C%E5%85%8B%E5%85%B0%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20L%27Ukraine%20Russie%20Zelensky%202026-06-28",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -86,26 +86,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-21-quatre-morts-et-six-blessés-dans-une-attaque-aér",
+    "id": "xinhua-parallel-2026-06-28-canicule-en-france-quand-lurgence-climatique-dev",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Quatre morts et six blessés dans une attaque aérienne russe contre la ville ukrainienne de Zaporijjia",
+    "title_fr": "Canicule en France : quand l'urgence climatique devient une urgence budgétaire (SYNTHESE)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260621/3dd7fcad1ad6486792ca9f4992faac86/c.html",
-    "published_fr": "2026-06-21",
-    "zh_keywords": "新华社 欧洲 欧盟 Europe Quatre Zaporijjia",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Quatre Zaporijjia",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Quatre%20Zaporijjia",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Quatre%20Zaporijjia",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Quatre%20Zaporijjia",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Quatre Zaporijjia 2026-06-21",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Quatre%20Zaporijjia%202026-06-21",
+    "url_fr": "https://french.news.cn/20260628/4483b54cfd4d4284be5e2521f39e2ec5/c.html",
+    "published_fr": "2026-06-28",
+    "zh_keywords": "新华社 欧洲 法国 欧盟 Europe Canicule France SYNTHESE",
+    "zh_search_query_broad": "新华社 欧洲 法国 欧盟 Europe Canicule France SYNTHESE",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Canicule%20France%20SYNTHESE",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Canicule%20France%20SYNTHESE",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Canicule%20France%20SYNTHESE",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 欧盟 Europe Canicule France SYNTHESE 2026-06-28",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Canicule%20France%20SYNTHESE%202026-06-28",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -116,26 +116,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-la-suisse-continue-doffrir-un-cadre-discret-et-f",
+    "id": "xinhua-parallel-2026-06-28-le-président-serbe-vucic-annonce-quil-démissionn",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Suisse continue d'offrir un cadre \"discret et fiable\" pour les discussions au Bürgenstock (DFAE)",
+    "title_fr": "Le président serbe Vucic annonce qu'il démissionnera d'ici quelques semaines",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/de8da4df75394c598974912a0dcf4fba/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 欧盟 Europe Suisse Bürgenstock DFAE",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Suisse Bürgenstock DFAE",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20B%C3%BCrgenstock%20DFAE",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20B%C3%BCrgenstock%20DFAE",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20B%C3%BCrgenstock%20DFAE",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Suisse Bürgenstock DFAE 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20B%C3%BCrgenstock%20DFAE%202026-06-20",
+    "url_fr": "https://french.news.cn/20260628/71ff9afdc9e542a0845c653f25579eb6/c.html",
+    "published_fr": "2026-06-28",
+    "zh_keywords": "新华社 欧洲 欧盟 总统 主席 Europe Vucic",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 总统 主席 Europe Vucic",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Vucic",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Vucic",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Vucic",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 总统 主席 Europe Vucic 2026-06-28",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Vucic%202026-06-28",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -146,26 +146,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-allemagne-1-mort-dans-une-collision-de-trains-à-",
+    "id": "xinhua-parallel-2026-06-27-le-centre-maritime-dirigé-par-les-etats-unis-rel",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Allemagne : 1 mort dans une collision de trains à Munich",
+    "title_fr": "Le centre maritime dirigé par les Etats-Unis relève le niveau de risque dans le détroit d'Ormuz à \"substantiel\"",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/ad10f72af25f4ed29faaa981d2a0e902/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 德国 Europe Allemagne Munich",
-    "zh_search_query_broad": "新华社 欧洲 德国 Europe Allemagne Munich",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20Allemagne%20Munich",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20Allemagne%20Munich",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20Allemagne%20Munich",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 德国 Europe Allemagne Munich 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20Europe%20Allemagne%20Munich%202026-06-20",
+    "url_fr": "https://french.news.cn/20260627/8cd7b1a2fd8a441989e19fd985663c4a/c.html",
+    "published_fr": "2026-06-27",
+    "zh_keywords": "新华社 欧洲 欧盟 Europe Etats-Unis Ormuz",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Etats-Unis Ormuz",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Etats-Unis%20Ormuz",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Etats-Unis%20Ormuz",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Etats-Unis%20Ormuz",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Etats-Unis Ormuz 2026-06-27",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Etats-Unis%20Ormuz%202026-06-27",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -176,26 +176,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-royaume-uni-starmer-appelé-à-fixer-une-date-pour",
+    "id": "xinhua-parallel-2026-06-26-la-plus-forte-chaleur-depuis-près-de-80-ans-met-",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Royaume-Uni : Starmer appelé à fixer une date pour son départ du poste de PM (média)",
+    "title_fr": "La plus forte chaleur depuis près de 80 ans met à l'épreuve le fonctionnement de la France (REPORTAGE)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/b0fc2bcbb3014ddd9a337c7f76993ce2/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 英国 斯塔默 Europe Royaume-Uni Starmer",
-    "zh_search_query_broad": "新华社 欧洲 英国 斯塔默 Europe Royaume-Uni Starmer",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%96%AF%E5%A1%94%E9%BB%98%20Europe%20Royaume-Uni%20Starmer",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%96%AF%E5%A1%94%E9%BB%98%20Europe%20Royaume-Uni%20Starmer",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%96%AF%E5%A1%94%E9%BB%98%20Europe%20Royaume-Uni%20Starmer",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 英国 斯塔默 Europe Royaume-Uni Starmer 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%96%AF%E5%A1%94%E9%BB%98%20Europe%20Royaume-Uni%20Starmer%202026-06-20",
+    "url_fr": "https://french.news.cn/20260626/109feafd2d70466fad3c134355e9d1b9/c.html",
+    "published_fr": "2026-06-26",
+    "zh_keywords": "新华社 欧洲 法国 Europe France REPORTAGE",
+    "zh_search_query_broad": "新华社 欧洲 法国 Europe France REPORTAGE",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20REPORTAGE",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20REPORTAGE",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20REPORTAGE",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 Europe France REPORTAGE 2026-06-26",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20REPORTAGE%202026-06-26",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -206,26 +206,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-la-pologne-retire-à-volodymyr-zelensky-sa-plus-h",
+    "id": "xinhua-parallel-2026-06-26-pologne-ouverture-de-la-conférence-sur-la-recons",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Pologne retire à Volodymyr Zelensky sa plus haute distinction à cause d'un conflit historique lié à la Seconde guerre mondiale",
+    "title_fr": "Pologne : ouverture de la conférence sur la reconstruction de l'Ukraine, des milliards d'euros promis",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/7c5675e5e5c145cb815192571194d6c7/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 欧盟 泽连斯基 Europe Pologne Volodymyr Zelensky Seconde",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 泽连斯基 Europe Pologne Volodymyr Zelensky Seconde",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20Pologne%20Volodymyr%20Zelensky%20Seconde",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20Pologne%20Volodymyr%20Zelensky%20Seconde",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20Pologne%20Volodymyr%20Zelensky%20Seconde",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 泽连斯基 Europe Pologne Volodymyr Zelensky Seconde 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%20Europe%20Pologne%20Volodymyr%20Zelensky%20Seconde%202026-06-20",
+    "url_fr": "https://french.news.cn/20260626/6415c79a954e47a689647f96db2f997f/c.html",
+    "published_fr": "2026-06-26",
+    "zh_keywords": "新华社 欧洲 乌克兰 Europe Pologne Ukraine",
+    "zh_search_query_broad": "新华社 欧洲 乌克兰 Europe Pologne Ukraine",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Pologne%20Ukraine",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Pologne%20Ukraine",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Pologne%20Ukraine",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 乌克兰 Europe Pologne Ukraine 2026-06-26",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20Pologne%20Ukraine%202026-06-26",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -236,26 +236,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-des-personnalités-françaises-appellent-à-une-dip",
+    "id": "xinhua-parallel-2026-06-26-la-suisse-va-envoyer-une-équipe-de-80-secouriste",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Des personnalités françaises appellent à une diplomatie fondée sur le dialogue",
+    "title_fr": "La Suisse va envoyer une équipe de 80 secouristes au Venezuela",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/c7b5686a31d446c29cf2cc4e59e88012/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 欧盟 Europe Des",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Des",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Des",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Des",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Des",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Des 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Des%202026-06-20",
+    "url_fr": "https://french.news.cn/20260626/9b1e8b989e6c433eb29205bccec22e66/c.html",
+    "published_fr": "2026-06-26",
+    "zh_keywords": "新华社 欧洲 欧盟 Europe Suisse Venezuela",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Suisse Venezuela",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Venezuela",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Venezuela",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Venezuela",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Suisse Venezuela 2026-06-26",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Venezuela%202026-06-26",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -266,26 +266,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-20-la-russie-affirme-que-des-documents-américains-d",
+    "id": "xinhua-parallel-2026-06-26-pologne-quatre-blessés-dans-une-attaque-au-coute",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Russie affirme que des documents américains déclassifiés corroborent ses allégations concernant des laboratoires biologiques ukrainiens",
+    "title_fr": "Pologne : quatre blessés dans une attaque au couteau dans un hôpital du sud du pays",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260620/39aba458c7104a7798851067a77d0264/c.html",
-    "published_fr": "2026-06-20",
-    "zh_keywords": "新华社 欧洲 欧盟 俄罗斯 Europe Russie",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 俄罗斯 Europe Russie",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 俄罗斯 Europe Russie 2026-06-20",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%202026-06-20",
+    "url_fr": "https://french.news.cn/20260626/1845e5e5025146019ce3c0dc7506d4b9/c.html",
+    "published_fr": "2026-06-26",
+    "zh_keywords": "新华社 欧洲 欧盟 Europe Pologne",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Pologne",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Pologne",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Pologne",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Pologne",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Pologne 2026-06-26",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Pologne%202026-06-26",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -296,26 +296,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-19-la-russie-est-ouverte-au-dialogue-avec-leurope-s",
+    "id": "xinhua-parallel-2026-06-26-deux-trains-entrent-en-collision-dans-le-centre-",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "La Russie est ouverte au dialogue avec l'Europe \"sans ultimatum\" (Kremlin)",
+    "title_fr": "Deux trains entrent en collision dans le centre-ouest de la Pologne, faisant au moins trois blessés",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260619/7bed672b418c4b3eba8bfbe3342a1e93/c.html",
-    "published_fr": "2026-06-19",
-    "zh_keywords": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Kremlin",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Kremlin",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Kremlin",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Kremlin",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Kremlin",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 俄罗斯 Europe Russie Kremlin 2026-06-19",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Kremlin%202026-06-19",
+    "url_fr": "https://french.news.cn/20260626/e7f8b2e2a32c49fd9b6777166d34e3eb/c.html",
+    "published_fr": "2026-06-26",
+    "zh_keywords": "新华社 欧洲 欧盟 Europe Deux Pologne",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Deux Pologne",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Deux%20Pologne",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Deux%20Pologne",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Deux%20Pologne",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Deux Pologne 2026-06-26",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Deux%20Pologne%202026-06-26",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -326,26 +326,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-19-royaume-uni-andy-burnham-remporte-lélection-part",
+    "id": "xinhua-parallel-2026-06-25-france-la-dette-publique-grimpe-à-1175-du-pib-au",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Royaume-Uni: Andy Burnham remporte l'élection partielle, ouvrant la voie à son retour au Parlement et à une éventuelle candidature à la direction du Parti travailliste",
+    "title_fr": "France : la dette publique grimpe à 117,5% du PIB au premier trimestre 2026",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260619/dd1eb4334cca43cf8d0b6d4f0b1feed3/c.html",
-    "published_fr": "2026-06-19",
-    "zh_keywords": "新华社 欧洲 英国 欧盟 Europe Royaume-Uni Andy Burnham Parlement",
-    "zh_search_query_broad": "新华社 欧洲 英国 欧盟 Europe Royaume-Uni Andy Burnham Parlement",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Royaume-Uni%20Andy%20Burnham%20Parlement",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Royaume-Uni%20Andy%20Burnham%20Parlement",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Royaume-Uni%20Andy%20Burnham%20Parlement",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 英国 欧盟 Europe Royaume-Uni Andy Burnham Parlement 2026-06-19",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E8%8B%B1%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20Royaume-Uni%20Andy%20Burnham%20Parlement%202026-06-19",
+    "url_fr": "https://french.news.cn/20260625/ddc4f19e5d7d466b9dc03518b67f1d4c/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 法国 欧盟 Europe France PIB",
+    "zh_search_query_broad": "新华社 欧洲 法国 欧盟 Europe France PIB",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20PIB",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20PIB",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20PIB",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 欧盟 Europe France PIB 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20PIB%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -356,26 +356,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-19-suisse-les-pourparlers-prévues-entre-les-etats-u",
+    "id": "xinhua-parallel-2026-06-25-la-russie-convoque-lambassadeur-de-roumanie-au-s",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Suisse : les pourparlers prévues entre les Etats-Unis et l'Iran reportées (DFAE)",
+    "title_fr": "La Russie convoque l'ambassadeur de Roumanie au sujet de la fermeture du consulat russe à Constanta",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260619/9b7300dd4f0a439fb3e69f4afcd4a9d8/c.html",
-    "published_fr": "2026-06-19",
-    "zh_keywords": "新华社 欧洲 欧盟 Europe Suisse Etats-Unis Iran DFAE",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Suisse Etats-Unis Iran DFAE",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Etats-Unis%20Iran%20DFAE",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Etats-Unis%20Iran%20DFAE",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Etats-Unis%20Iran%20DFAE",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Suisse Etats-Unis Iran DFAE 2026-06-19",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Suisse%20Etats-Unis%20Iran%20DFAE%202026-06-19",
+    "url_fr": "https://french.news.cn/20260625/0b4cb6f2b9db47a7a1cf1ef6e0d91a28/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Roumanie Constanta",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Roumanie Constanta",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Roumanie%20Constanta",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Roumanie%20Constanta",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Roumanie%20Constanta",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 俄罗斯 Europe Russie Roumanie Constanta 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Roumanie%20Constanta%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -386,26 +386,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-19-laccord-entre-les-etats-unis-et-liran-ne-signifi",
+    "id": "xinhua-parallel-2026-06-25-la-france-intercepte-un-pétrolier-de-la-flotte-f",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "L'accord entre les Etats-Unis et l'Iran ne signifie pas que la guerre soit \"totalement terminée\" (Macron)",
+    "title_fr": "La France intercepte un pétrolier de la \"flotte fantôme\" russe (Macron)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260619/5123a4fd99524f23a7053e27028b699a/c.html",
-    "published_fr": "2026-06-19",
-    "zh_keywords": "新华社 欧洲 欧盟 马克龙 Europe L'accord Etats-Unis Iran Macron",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 马克龙 Europe L'accord Etats-Unis Iran Macron",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20L%27accord%20Etats-Unis%20Iran%20Macron",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20L%27accord%20Etats-Unis%20Iran%20Macron",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20L%27accord%20Etats-Unis%20Iran%20Macron",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 马克龙 Europe L'accord Etats-Unis Iran Macron 2026-06-19",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20L%27accord%20Etats-Unis%20Iran%20Macron%202026-06-19",
+    "url_fr": "https://french.news.cn/20260625/52765dd48aa84b95a0c144b1f83878f4/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 法国 马克龙 Europe France Macron",
+    "zh_search_query_broad": "新华社 欧洲 法国 马克龙 Europe France Macron",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20France%20Macron",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20France%20Macron",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20France%20Macron",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 马克龙 Europe France Macron 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E9%A9%AC%E5%85%8B%E9%BE%99%20Europe%20France%20Macron%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -416,26 +416,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-19-russie-17-blessés-dans-une-attaque-massive-de-dr",
+    "id": "xinhua-parallel-2026-06-25-lexposition-sur-les-grottes-de-yungang-ouvre-ses",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Russie : 17 blessés dans une attaque massive de drones ukrainiens sur la région de Moscou",
+    "title_fr": "L'exposition sur les grottes de Yungang ouvre ses portes à Paris",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260619/7f387f3b4d2048c59e2697f3c7634a5d/c.html",
-    "published_fr": "2026-06-19",
-    "zh_keywords": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Moscou",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 俄罗斯 Europe Russie Moscou",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Moscou",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Moscou",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Moscou",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 俄罗斯 Europe Russie Moscou 2026-06-19",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20Europe%20Russie%20Moscou%202026-06-19",
+    "url_fr": "https://french.news.cn/20260625/3b3aa5fb92b2492aa3f02552fb02db76/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 Europe L'exposition Yungang Paris",
+    "zh_search_query_broad": "新华社 欧洲 Europe L'exposition Yungang Paris",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20Europe%20L%27exposition%20Yungang%20Paris",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20Europe%20L%27exposition%20Yungang%20Paris",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20Europe%20L%27exposition%20Yungang%20Paris",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 Europe L'exposition Yungang Paris 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20Europe%20L%27exposition%20Yungang%20Paris%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -446,26 +446,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-18-lallemagne-déploie-deux-navires-militaires-en-me",
+    "id": "xinhua-parallel-2026-06-25-la-france-connaît-à-nouveau-sa-journée-la-plus-c",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "L'Allemagne déploie deux navires militaires en mer Rouge en vue d'une éventuelle mission dans le détroit d'Ormuz",
+    "title_fr": "La France connaît à nouveau sa journée la plus chaude jamais enregistrée",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260618/cc9335758e3b4d1198a771c10a202161/c.html",
-    "published_fr": "2026-06-18",
-    "zh_keywords": "新华社 欧洲 德国 欧盟 Europe L'Allemagne Rouge Ormuz",
-    "zh_search_query_broad": "新华社 欧洲 德国 欧盟 Europe L'Allemagne Rouge Ormuz",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20L%27Allemagne%20Rouge%20Ormuz",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20L%27Allemagne%20Rouge%20Ormuz",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20L%27Allemagne%20Rouge%20Ormuz",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 德国 欧盟 Europe L'Allemagne Rouge Ormuz 2026-06-18",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20L%27Allemagne%20Rouge%20Ormuz%202026-06-18",
+    "url_fr": "https://french.news.cn/20260625/f1c44b08bb9b40bea1a8248e2bb2b672/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 法国 Europe France",
+    "zh_search_query_broad": "新华社 欧洲 法国 Europe France",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 Europe France 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -476,26 +476,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-18-une-attaque-de-drone-ukrainienne-provoque-des-dé",
+    "id": "xinhua-parallel-2026-06-25-des-dirigeants-européens-et-le-secrétaire-généra",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Une attaque de drone ukrainienne provoque des dégâts et fait des blessés dans la région de Moscou",
+    "title_fr": "Des dirigeants européens et le secrétaire général de l'OTAN s'engagent à renforcer la coopération industrielle en matière de défense",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260618/95cd884d622244749baab9e9cc17a1bd/c.html",
-    "published_fr": "2026-06-18",
-    "zh_keywords": "新华社 欧洲 欧盟 Europe Une Moscou",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Une Moscou",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Une%20Moscou",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Une%20Moscou",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Une%20Moscou",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Une Moscou 2026-06-18",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Une%20Moscou%202026-06-18",
+    "url_fr": "https://french.news.cn/20260625/abbdda5db0ce40d391c77353145c8734/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 合作 Europe Des OTAN",
+    "zh_search_query_broad": "新华社 欧洲 合作 Europe Des OTAN",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%90%88%E4%BD%9C%20Europe%20Des%20OTAN",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E5%90%88%E4%BD%9C%20Europe%20Des%20OTAN",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%90%88%E4%BD%9C%20Europe%20Des%20OTAN",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 合作 Europe Des OTAN 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%90%88%E4%BD%9C%20Europe%20Des%20OTAN%202026-06-25",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -506,26 +506,56 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
+    "suggested_use": "coopération internationale / expressions récurrentes"
+  },
+  {
+    "id": "xinhua-parallel-2026-06-25-la-france-identifie-et-isole-cinq-cas-contacts-é",
+    "source": "Xinhua French",
+    "language": "fr",
+    "category": "Europe",
+    "theme": "Europe",
+    "title_fr": "La France identifie et isole cinq cas contacts éventuels d'un patient atteint d'Ebola",
+    "summary_fr": "",
+    "url_fr": "https://french.news.cn/20260625/bb4d21b08b3b4370b14f6af1db4654e1/c.html",
+    "published_fr": "2026-06-25",
+    "zh_keywords": "新华社 欧洲 法国 欧盟 Europe France Ebola",
+    "zh_search_query_broad": "新华社 欧洲 法国 欧盟 Europe France Ebola",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20Ebola",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20Ebola",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20Ebola",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 欧盟 Europe France Ebola 2026-06-25",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20Europe%20France%20Ebola%202026-06-25",
+    "zh_match_status": "recherches prêtes, à vérifier manuellement",
+    "zh_candidate_title_1": "",
+    "zh_candidate_url_1": "",
+    "zh_candidate_title_2": "",
+    "zh_candidate_url_2": "",
+    "zh_candidate_title_3": "",
+    "zh_candidate_url_3": "",
+    "confirmed_title_zh": "",
+    "confirmed_url_zh": "",
+    "match_note": "",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-18-lukraine-et-lallemagne-vont-développer-conjointe",
+    "id": "xinhua-parallel-2026-06-24-la-dissuasion-nucléaire-est-la-seule-force-qui-e",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "L'Ukraine et l'Allemagne vont développer conjointement un système antimissile balistique",
+    "title_fr": "La dissuasion nucléaire est la seule force qui empêche une guerre mondiale (Kremlin)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260618/91a7169900324519a7a9726a2b889c36/c.html",
-    "published_fr": "2026-06-18",
-    "zh_keywords": "新华社 欧洲 德国 欧盟 乌克兰 Europe L'Ukraine Allemagne",
-    "zh_search_query_broad": "新华社 欧洲 德国 欧盟 乌克兰 Europe L'Ukraine Allemagne",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20L%27Ukraine%20Allemagne",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20L%27Ukraine%20Allemagne",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20L%27Ukraine%20Allemagne",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 德国 欧盟 乌克兰 Europe L'Ukraine Allemagne 2026-06-18",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E5%BE%B7%E5%9B%BD%20%E6%AC%A7%E7%9B%9F%20%E4%B9%8C%E5%85%8B%E5%85%B0%20Europe%20L%27Ukraine%20Allemagne%202026-06-18",
+    "url_fr": "https://french.news.cn/20260624/f12d38e2771f4381bb466d000b9643be/c.html",
+    "published_fr": "2026-06-24",
+    "zh_keywords": "新华社 欧洲 欧盟 Europe Kremlin",
+    "zh_search_query_broad": "新华社 欧洲 欧盟 Europe Kremlin",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Kremlin",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Kremlin",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Kremlin",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 Europe Kremlin 2026-06-24",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20Europe%20Kremlin%202026-06-24",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -536,26 +566,26 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
-    "id": "xinhua-parallel-2026-06-18-le-louvre-à-bout-de-souffle-selon-son-président-",
+    "id": "xinhua-parallel-2026-06-24-france-un-premier-cas-debola-identifié-le-patien",
     "source": "Xinhua French",
     "language": "fr",
     "category": "Europe",
     "theme": "Europe",
-    "title_fr": "Le Louvre \"à bout de souffle\", selon son président-directeur Christophe Leribault",
+    "title_fr": "France : un premier cas d'Ebola identifié, le patient dans un état stable (ministère)",
     "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260618/2bcb05e346964671aea3f1275884d6b8/c.html",
-    "published_fr": "2026-06-18",
-    "zh_keywords": "新华社 欧洲 总统 主席 Europe Louvre Christophe Leribault",
-    "zh_search_query_broad": "新华社 欧洲 总统 主席 Europe Louvre Christophe Leribault",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Louvre%20Christophe%20Leribault",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Louvre%20Christophe%20Leribault",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Louvre%20Christophe%20Leribault",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 总统 主席 Europe Louvre Christophe Leribault 2026-06-18",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%80%BB%E7%BB%9F%20%E4%B8%BB%E5%B8%AD%20Europe%20Louvre%20Christophe%20Leribault%202026-06-18",
+    "url_fr": "https://french.news.cn/20260624/25135b2af2e5449480ff54035b6fa647/c.html",
+    "published_fr": "2026-06-24",
+    "zh_keywords": "新华社 欧洲 法国 Europe France Ebola",
+    "zh_search_query_broad": "新华社 欧洲 法国 Europe France Ebola",
+    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20Ebola",
+    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20Ebola",
+    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20Ebola",
+    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 法国 Europe France Ebola 2026-06-24",
+    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%B3%95%E5%9B%BD%20Europe%20France%20Ebola%202026-06-24",
     "zh_match_status": "recherches prêtes, à vérifier manuellement",
     "zh_candidate_title_1": "",
     "zh_candidate_url_1": "",
@@ -566,37 +596,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
-    "suggested_use": "citation / source / discours rapporté"
-  },
-  {
-    "id": "xinhua-parallel-2026-06-18-meloni-a-lintention-de-proposer-la-désignation-d",
-    "source": "Xinhua French",
-    "language": "fr",
-    "category": "Europe",
-    "theme": "Europe",
-    "title_fr": "Meloni a l'intention de proposer la désignation d'un négociateur unique de l'Union européenne pour les contacts avec la Russie",
-    "summary_fr": "",
-    "url_fr": "https://french.news.cn/20260618/b299f21bea3044308e00ec2034e410c7/c.html",
-    "published_fr": "2026-06-18",
-    "zh_keywords": "新华社 欧洲 欧盟 俄罗斯 梅洛尼 Europe Meloni Union Russie",
-    "zh_search_query_broad": "新华社 欧洲 欧盟 俄罗斯 梅洛尼 Europe Meloni Union Russie",
-    "zh_search_url_google_broad": "https://www.google.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Meloni%20Union%20Russie",
-    "zh_search_url_google_news_cn": "https://www.google.com/search?q=site%3Anews.cn%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Meloni%20Union%20Russie",
-    "zh_search_url_baidu": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Meloni%20Union%20Russie",
-    "zh_search_query_strict": "(site:news.cn OR site:xinhuanet.com) 新华社 欧洲 欧盟 俄罗斯 梅洛尼 Europe Meloni Union Russie 2026-06-18",
-    "zh_search_url_google_strict": "https://www.google.com/search?q=%28site%3Anews.cn%20OR%20site%3Axinhuanet.com%29%20%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E6%AC%A7%E6%B4%B2%20%E6%AC%A7%E7%9B%9F%20%E4%BF%84%E7%BD%97%E6%96%AF%20%E6%A2%85%E6%B4%9B%E5%B0%BC%20Europe%20Meloni%20Union%20Russie%202026-06-18",
-    "zh_match_status": "recherches prêtes, à vérifier manuellement",
-    "zh_candidate_title_1": "",
-    "zh_candidate_url_1": "",
-    "zh_candidate_title_2": "",
-    "zh_candidate_url_2": "",
-    "zh_candidate_title_3": "",
-    "zh_candidate_url_3": "",
-    "confirmed_title_zh": "",
-    "confirmed_url_zh": "",
-    "match_note": "",
-    "collected_at": "2026-06-22T13:39:28+00:00",
+    "collected_at": "2026-06-29T12:39:09+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -626,7 +626,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -656,7 +656,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -686,7 +686,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -716,7 +716,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -746,7 +746,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -776,7 +776,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -806,7 +806,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -836,7 +836,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -866,7 +866,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -896,7 +896,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -926,7 +926,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -956,7 +956,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -986,7 +986,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1016,7 +1016,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1046,7 +1046,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1076,7 +1076,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1106,7 +1106,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1136,7 +1136,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1166,7 +1166,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1196,7 +1196,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1226,7 +1226,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1256,7 +1256,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1286,7 +1286,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1316,7 +1316,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1346,7 +1346,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -1376,7 +1376,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1406,7 +1406,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1436,7 +1436,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1466,7 +1466,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1496,7 +1496,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1526,7 +1526,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1556,7 +1556,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1586,7 +1586,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1616,7 +1616,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1646,7 +1646,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1676,7 +1676,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1706,7 +1706,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1736,7 +1736,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1766,7 +1766,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1796,7 +1796,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1826,7 +1826,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1856,7 +1856,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1886,7 +1886,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1916,7 +1916,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1946,7 +1946,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -1976,7 +1976,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2006,7 +2006,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2036,7 +2036,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2066,7 +2066,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2096,7 +2096,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2126,7 +2126,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2156,7 +2156,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2186,7 +2186,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2216,7 +2216,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2246,7 +2246,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2276,7 +2276,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -2306,7 +2306,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2336,7 +2336,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2366,7 +2366,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2396,7 +2396,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -2426,7 +2426,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2456,7 +2456,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2486,7 +2486,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2516,7 +2516,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2546,7 +2546,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2576,7 +2576,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2606,7 +2606,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2636,7 +2636,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2666,7 +2666,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2696,7 +2696,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2726,7 +2726,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2756,7 +2756,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2786,7 +2786,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2816,7 +2816,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2846,7 +2846,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2876,7 +2876,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2906,7 +2906,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2936,7 +2936,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2966,7 +2966,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -2996,7 +2996,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3026,7 +3026,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3056,7 +3056,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3086,7 +3086,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3116,7 +3116,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3146,7 +3146,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3176,7 +3176,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3206,7 +3206,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3236,7 +3236,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3266,7 +3266,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3296,7 +3296,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3326,7 +3326,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3356,7 +3356,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3386,7 +3386,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -3416,7 +3416,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3446,7 +3446,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3476,7 +3476,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3506,7 +3506,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3536,7 +3536,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3566,7 +3566,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3596,7 +3596,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3626,7 +3626,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3656,7 +3656,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3686,7 +3686,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3716,7 +3716,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3746,7 +3746,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3776,7 +3776,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3806,7 +3806,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3836,7 +3836,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3866,7 +3866,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3896,7 +3896,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3926,7 +3926,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3956,7 +3956,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -3986,7 +3986,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4016,7 +4016,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4046,7 +4046,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4076,7 +4076,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4106,7 +4106,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4136,7 +4136,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4166,7 +4166,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4196,7 +4196,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4226,7 +4226,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4256,7 +4256,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4286,7 +4286,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4316,7 +4316,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4346,7 +4346,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4376,7 +4376,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4406,7 +4406,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4436,7 +4436,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4466,7 +4466,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:26+00:00",
+    "collected_at": "2026-06-29T12:39:07+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4496,7 +4496,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4526,7 +4526,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4556,7 +4556,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4586,7 +4586,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4616,7 +4616,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4646,7 +4646,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4676,7 +4676,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "citation / source / discours rapporté"
   },
   {
@@ -4706,7 +4706,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4736,7 +4736,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4766,7 +4766,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   },
   {
@@ -4796,7 +4796,7 @@ window.XINHUA_FR_ZH_CANDIDATES = [
     "confirmed_title_zh": "",
     "confirmed_url_zh": "",
     "match_note": "",
-    "collected_at": "2026-06-22T13:39:27+00:00",
+    "collected_at": "2026-06-29T12:39:08+00:00",
     "suggested_use": "titre / termes / segment"
   }
 ];
