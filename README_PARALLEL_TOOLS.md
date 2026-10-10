@@ -1,65 +1,74 @@
-# Xinhua French-Chinese parallel candidate tools v3
+# 新华社新闻检索与对应报道核验
 
-This package prepares French-Chinese matching candidates for the course platform.
+新闻入口：`04-corpus/news.html`。原 `04-corpus/index.html` 和 `corpus-data.js` 的5条课堂示例继续保留。
 
-## Added in v3
+## 课堂使用
 
-The source list now includes:
+- 默认按北京时间显示近30天内发表的报道，支持关键词、栏目、状态、起止日期组合筛选。
+- 法语关键词可省略重音；多个词须全部匹配。中文检索可匹配自动检索词或已核验的中文标题。
+- 要看2022年的资料，选择“全部日期（含历史报道）”，或设置自定义日期。
+- “查看已核验的对应报道”入口自动选取全部日期和已核验状态；筛选条件写入网址，可直接分享给学生。
+- 卡片中的中文搜索词可编辑；百度和 Google 入口是搜索辅助，绝不代表已确认中文对应稿。
+- 未核验卡片不显示自拟中文标题或译文。
 
-```text
-Chine
-Monde
-Afrique
-Europe
-Culture
-Science
-Economie
-Environnement/Tourisme
+## 数据和核验的边界
+
+`data/rss/xinhua_fr_zh_candidates.json` 保存候选资料，CSV 和 JS 是兼容导出。
+`data/reviewed/xinhua_fr_zh_reviews.json` 单独保存核验记录，自动采集不写入该文件。
+
+网页仅在核验记录满足以下条件时标为“已核验”：
+
+1. `status` 为 `verified`；法文 URL、标题和发表日期与候选记录一致。
+2. 有中文标题、有效原文 URL、来源、发表日期和双方页面时间。
+3. 有核验日期、方法和事实核对说明。
+
+核验记录保留法文元数据，因此候选列表将来变化也不会丢失已经确认的教学材料。
+原候选 JSON 中的 `confirmed_*` 字段、自动搜索结果或搜索接口返回值均不能自行赋予“已核验”状态。
+若核验文件加载失败，网页明确提示，并把候选资料全部按“待核验”展示。
+
+“已核验”指同一事件的可靠对应报道，供新闻编译比较使用，不保证逐句对齐。新增核验须实际阅读双方正文，核对人物、事件、地点、数字、时间及信息范围，记录差异。标题相似或仅主题相关不足以确认。
+
+## 本次核验（2026-10-11，北京时间）
+
+160条原候选全部保留，其中3组确认对应关系，其余157条继续待核验：
+
+| 报道 | 法文页面时间 | 中文页面时间 | 中文来源 |
+| --- | --- | --- | --- |
+| 中星6D卫星发射 | 2022-04-15 22:08 | 2022-04-15 20:40:55 | 新华社／新华网 |
+| 神舟十三号返回 | 2022-04-16 19:52 | 2022-04-16 11:23:08 | 新华社／新华网 |
+| 中毛建交50周年互致贺电 | 2022-04-15 20:05 | 2022-04-15 17:02 | 新华社／共产党员网转载 |
+
+完整 URL 及事实核对说明保存在核验 JSON，并在卡片“查看核验依据与时间”中展示。上述时间按各页面可见标示记录，不由采集时间替代。
+
+近期多勒中法艺术展曾检索到安徽艺术学院2026年7月的相关展讯，但事件日期、展出地点和艺术家人数不相同，不据此确认10月法文报道的中文对应稿。其他未确认记录亦保持待核验；本次未宣称对160条逐一完成中文全文核对。
+
+## 2022年报道混入的原因与处理
+
+2026-10-11检查现存数据：140条发表于2022-04-14至2022-04-18，20条发表于2026-09-29至2026-10-04。
+直接读取 `https://french.news.cn/rss/chine.xml` 和 `https://french.news.cn/rss/monde.xml`，两源各返回100条，最新日期均为2022-04-18。旧脚本没有时间下限，只去重、倒序排列后截取160条，因此旧RSS报道和 Europe 栏目索引中的近期报道混在一起。工作流成功只能说明程序执行完成。
+
+修改后的采集程序：
+
+- `XINHUA_MAX_AGE_DAYS` 默认为30，仅接纳此期间内的新记录，按北京时间计算。
+- 日期无法识别、日期在未来、非报道链接均不进入本次新增资料。
+- HTML 栏目页日期从报道 URL 提取，避免从相邻报道的父容器误取日期；该日期仍属待核验元数据。
+- 既有资料保留，不因旧源、空源或请求失败被清空；按 URL 合并，每轮最多接纳160条近期候选。
+- 有旧源或空源时输出 GitHub Actions warning；下次采集生成 `data/rss/collection_status.json`，记录各源收到条数、日期排除情况及实际新增数。
+- 自动采集永不更新独立核验记录。`SERPAPI_KEY` 可选；没有密钥仍提供普通搜索入口。自动命中永远只是候选。
+- 修正关键词匹配边界，避免将普通法语词中的 `ue` 错认作欧盟。
+
+没有擅自新增或改变定时任务；现有周一采集工作流继续使用上述脚本和既有依赖。
+
+## 运行与测试
+
+```sh
+pip install feedparser requests beautifulsoup4
+python tools/collect_xinhua_parallel_candidates.py
+node --test tests/news-search.test.js
+python -m unittest discover -s tests -v
+python -m http.server 8000
 ```
 
-Note: Europe is collected from the Europe index page as metadata because Europe is not shown as a top-level RSS feed on the Xinhua French RSS index.
-
-## What it does
-
-It collects metadata and prepares a table with:
-
-- French title
-- French URL
-- publication date
-- category
-- suggested Chinese search query
-- clickable Chinese search URL
-- optional top Chinese candidates if `SERPAPI_KEY` is configured
-
-## Important
-
-This workflow does not scrape full article text. It is designed for building a teaching-oriented, reviewable candidate table.
-
-## Files to upload
-
-Upload these folders/files to the root of your repository:
-
-```text
-.github/
-tools/
-data/
-README_PARALLEL_TOOLS.md
-```
-
-## Run the workflow
-
-```text
-Actions
-→ Collect Xinhua FR and prepare ZH matching
-→ Run workflow
-```
-
-## Outputs
-
-```text
-data/rss/xinhua_fr_zh_candidates.json
-data/candidates/xinhua_fr_zh_candidates.csv
-data/candidates/xinhua_fr_zh_candidates.js
-```
-
-Open the CSV file and confirm Chinese matching articles manually before using the data in the course corpus.
+通过 HTTP 打开 `/04-corpus/news.html`，不能用 `file://` 直接打开依赖 JSON 请求的页面。
+核心回归覆盖：历史日期隔离、日期边界、重音关键词、组合筛选、核验失败关闭、记录保留和空源保护。
+发布前还须用浏览器检查分页、中文搜索入口、加载失败提示、320/390px 手机宽度、原5条示例和 GitHub Pages 公开访问。

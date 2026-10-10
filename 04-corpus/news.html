@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>新闻检索 · 汉法新闻编译</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/news.css">
+  <script src="news-search.js" defer></script>
+</head>
+<body>
+<header class="site-header"><nav class="top-nav" aria-label="课程导航"><a class="brand" href="../index.html">汉法新闻编译</a><div class="nav-links"><a href="../01-fondements/index.html">理论基础</a><a href="../02-structure/index.html">结构要素</a><a href="../03-ateliers/index.html">主题工作坊</a><a href="index.html">语料库</a><a href="news.html" aria-current="page">新闻检索</a></div></nav></header>
+<main class="container news-page">
+  <article class="article">
+    <p class="eyebrow" lang="fr">Sources de presse · Xinhua</p>
+    <h1>新闻检索</h1>
+    <p class="news-lead">查找法语报道，寻找中文对应稿，比较新闻编译中的信息取舍与表达。</p>
+    <div class="notice">
+      <strong>待核验材料与汉法平行语料分开使用</strong>
+      <p>“待核验”仅表示已收录法语来源；中文检索结果不代表对应关系成立。“已核验”记录已核对中法标题、发表时间与正文事实，可用于对应报道比较，不表示两文逐句对齐。</p>
+      <div class="inline-links"><a href="news.html?status=verified&amp;period=all">查看已核验的对应报道 →</a><a href="index.html">原有5条课堂示例 →</a></div>
+    </div>
+    <div id="datasetInfo" class="meta" aria-live="polite">正在加载新闻资料……</div>
+    <form id="newsFilters" class="news-filters" role="search" aria-label="筛选新闻">
+      <div class="field keyword-field"><label for="newsKeyword">关键词</label><input id="newsKeyword" type="search" placeholder="法语标题、中文检索词或已核验中文标题" autocomplete="off"><small>支持多个词；法语重音可省略，如 economie。</small></div>
+      <div class="field"><label for="newsCategory">新闻栏目</label><select id="newsCategory"><option value="all">全部栏目</option></select></div>
+      <div class="field"><label for="newsStatus">核验状态</label><select id="newsStatus"><option value="all">全部状态</option><option value="pending">待核验</option><option value="verified">已核验</option></select></div>
+      <div class="field"><label for="newsPeriod">发表日期范围</label><select id="newsPeriod"><option value="30">近30天</option><option value="7">近7天</option><option value="all">全部日期（含历史报道）</option><option value="custom">自定义日期</option></select></div>
+      <div class="field"><label for="dateFrom">开始日期（含当天）</label><input id="dateFrom" type="date"></div>
+      <div class="field"><label for="dateTo">结束日期（含当天）</label><input id="dateTo" type="date"></div>
+      <div class="filter-actions"><button type="submit">检索</button><button type="button" id="resetFilters" class="secondary">重置筛选</button></div>
+    </form>
+    <p id="dateHelp" class="meta"></p>
+    <p id="filterError" class="error" role="alert" hidden></p>
+    <div id="loadError" class="notice error" role="alert" hidden></div>
+    <div class="result-toolbar"><p id="resultCount" role="status" aria-live="polite"></p><label>排序 <select id="newsSort"><option value="desc">发表日期：由新到旧</option><option value="asc">发表日期：由旧到新</option></select></label></div>
+    <div id="newsResults" aria-busy="true"></div>
+    <nav class="pagination" aria-label="新闻结果分页"><button id="prevPage" type="button" class="secondary" disabled>上一页</button><span id="pageInfo"></span><button id="nextPage" type="button" class="secondary" disabled>下一页</button></nav>
+    <noscript><p>请启用 JavaScript 后使用检索。也可下载<a href="../data/candidates/xinhua_fr_zh_candidates.csv">候选资料表</a>，其中自动搜索结果仍须核验。</p></noscript>
+  </article>
+</main>
+<footer class="site-footer"><p>© 《汉法新闻编译》课程平台 · La traduction de presse chinois-français</p></footer>
+</body>
+</html>

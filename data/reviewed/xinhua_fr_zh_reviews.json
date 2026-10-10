@@ -1,0 +1,74 @@
+[
+  {
+    "id": "xinhua-parallel-2022-04-15-la-chine-lance-le-satellite-zhongxing-6d",
+    "source": "Xinhua French",
+    "language": "fr",
+    "category": "Chine",
+    "theme": "Actualité chinoise",
+    "title_fr": "La Chine lance le satellite Zhongxing-6D",
+    "url_fr": "http://french.news.cn/2022-04/15/c_1310560220.htm",
+    "published_fr": "2022-04-15",
+    "status": "verified",
+    "confirmed_title_zh": "我国成功发射中星6D卫星",
+    "confirmed_url_zh": "https://www.news.cn/tech/2022-04/15/c_1128564673.htm",
+    "published_zh": "2022-04-15",
+    "published_at_zh_display": "2022-04-15 20:40:55",
+    "published_at_fr_display": "2022-04-15 22:08",
+    "source_zh": "新华社（新华网）",
+    "verified_at": "2026-10-11",
+    "verification_method": "逐篇读取中法报道，核对标题、页面发布时间及正文事实；核验记录由本次网站维护整理。",
+    "verification_notes": [
+      "两篇均报道2022年4月15日中星6D卫星发射；中文20:40:55、法文22:08，均为页面标示的发布时间。",
+      "共同事实：西昌发射中心、20时发射、长征三号乙、进入预定轨道、长征系列第415次飞行。",
+      "两篇均说明广播电视传输及通信用途；中文另明确服务区域。标题侧重点及详略不同，可作对应报道比较，不预设逐句对齐。"
+    ]
+  },
+  {
+    "id": "xinhua-parallel-2022-04-16-chine-retour-des-taïkonautes-après-une-mission-d",
+    "source": "Xinhua French",
+    "language": "fr",
+    "category": "Chine",
+    "theme": "Actualité chinoise",
+    "title_fr": "Chine : retour des taïkonautes après une mission de six mois dans la station spatiale",
+    "url_fr": "http://french.news.cn/2022-04/16/c_1310561663.htm",
+    "published_fr": "2022-04-16",
+    "status": "verified",
+    "confirmed_title_zh": "神舟十三号载人飞船返回舱成功着陆 飞行任务取得圆满成功",
+    "confirmed_url_zh": "https://www.news.cn/politics/2022-04/16/c_1128565870.htm",
+    "published_zh": "2022-04-16",
+    "published_at_zh_display": "2022-04-16 11:23:08",
+    "published_at_fr_display": "2022-04-16 19:52",
+    "source_zh": "新华社（新华网）",
+    "verified_at": "2026-10-11",
+    "verification_method": "逐篇读取中法报道，核对标题、页面发布时间及正文事实；核验记录由本次网站维护整理。",
+    "verification_notes": [
+      "两篇均发表于2022年4月16日；中文11:23:08、法文19:52，均为页面标示的发布时间。法文标题侧重半年任务结束，中文侧重成功着陆。",
+      "共同事实：翟志刚、王亚平、叶光富；9时56分在东风着陆场着陆；9时6分分离、9时30分制动；2021年10月16日发射。",
+      "两篇均写到驻留6个月、2次出舱活动、2次太空授课及空间站关键技术验证完成。法文调整了信息次序，可作篇章编译比较。"
+    ]
+  },
+  {
+    "id": "xinhua-parallel-2022-04-15-le-président-xi-et-son-homologue-mauricien-échan",
+    "source": "Xinhua French",
+    "language": "fr",
+    "category": "Chine",
+    "theme": "Actualité chinoise",
+    "title_fr": "Le président Xi et son homologue mauricien échangent des félicitations à l'occasion du 50e anniversaire des liens diplomatiques",
+    "url_fr": "http://french.news.cn/2022-04/15/c_1310560109.htm",
+    "published_fr": "2022-04-15",
+    "status": "verified",
+    "confirmed_title_zh": "习近平同毛里求斯总统鲁蓬就中毛建交50周年互致贺电",
+    "confirmed_url_zh": "https://www.12371.cn/2022/04/15/ARTI1650013324766478.shtml",
+    "published_zh": "2022-04-15",
+    "published_at_zh_display": "2022-04-15 17:02",
+    "published_at_fr_display": "2022-04-15 20:05",
+    "source_zh": "新华社（共产党员网转载）",
+    "verified_at": "2026-10-11",
+    "verification_method": "逐篇读取中法报道，核对标题、页面发布时间及正文事实；核验记录由本次网站维护整理。",
+    "verification_notes": [
+      "两篇均发表于2022年4月15日；中文转载页17:02、法文20:05，均为页面标示的发布时间。标题均指向中毛建交50周年互致贺电。",
+      "双方人物为习近平与鲁蓬；共同内容包括半世纪友谊、抗疫互助、拓展互利合作及自贸协定生效。",
+      "中文页面明确注明来源为新华社。法文将第一人称贺电转为间接引语，适合称谓和引语转换练习。"
+    ]
+  }
+]

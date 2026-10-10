@@ -2,9 +2,8 @@
 from __future__ import annotations
 import csv, json, os, re, urllib.parse
 from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
-from typing import Iterable
 from urllib.parse import urljoin
 import feedparser, requests
 from bs4 import BeautifulSoup
@@ -78,11 +77,9 @@ def zh_keywords(title, summary, category):
     lower = text.lower()
     out = ["新华社"]
     for k,v in KEYWORD_MAP.items():
-        if k in lower: add_parts(out, v)
+        if re.search(r"(?<!\w)" + re.escape(k) + r"(?!\w)", lower): add_parts(out, v)
     for k,v in NAME_MAP.items():
         if k.lower() in lower: add_parts(out, v)
-    for tok in re.findall(r"\b[A-Z][A-Za-zÀ-ÖØ-öø-ÿ'-]{2,}\b", text)[:5]:
-        if tok not in out: out.append(tok)
     return out[:10]
 
 def google_url(q): return "https://www.google.com/search?q=" + urllib.parse.quote(q)
@@ -101,11 +98,12 @@ def serpapi_search(query, key):
         r.raise_for_status()
         data = r.json()
     except Exception as e:
-        print("[WARN] SerpAPI failed:", e); return []
+        print("[WARN] SerpAPI failed:", type(e).__name__); return []
     out = []
     for item in data.get("organic_results", [])[:3]:
         link = item.get("link", "")
-        if "news.cn" in link or "xinhuanet.com" in link:
+        host = urllib.parse.urlparse(link).hostname or ""
+        if any(host == domain or host.endswith("." + domain) for domain in ["news.cn", "xinhuanet.com"]):
             out.append({"title": item.get("title",""), "url": link})
     return out
 
@@ -133,7 +131,9 @@ def build_candidate(src, title, summary, url, published, key):
         suggested_use=suggested_use(title, summary), **vals)
 
 def collect_rss(src, key):
-    parsed = feedparser.parse(src["url"])
+    r = requests.get(src["url"], timeout=25, headers={"User-Agent": "FR-News-Course/1.0"})
+    r.raise_for_status()
+    parsed = feedparser.parse(r.content)
     out = []
     for e in parsed.entries:
         title, summary, url = clean_html(getattr(e,"title","")), clean_html(getattr(e,"summary","")), getattr(e,"link","").strip()
@@ -153,11 +153,12 @@ def collect_html_index(src, key):
         title, href = clean_html(a.get_text(" ", strip=True)), (a.get("href") or "").strip()
         if not title or len(title) < 12 or not href or href.startswith("#") or "javascript:" in href.lower(): continue
         url = urljoin(src["url"], href)
-        if url in seen: continue
+        if not is_article_url(url) or url in seen: continue
         seen.add(url)
-        parent = clean_html(a.parent.get_text(" ", strip=True) if a.parent else "")
-        m = re.search(r"\b(20\d{2}-\d{2}-\d{2})\b", parent)
-        out.append(build_candidate(src, title, "", url, m.group(1) if m else "", key))
+        # A parent container may hold dates from several adjacent stories.
+        # Prefer the article URL date; never substitute the collection date.
+        published = date_from_url(url)
+        out.append(build_candidate(src, title, "", url, published, key))
         if len(out) >= 50: break
     return out
 
@@ -168,25 +169,102 @@ def dedup(items):
         seen.add(x.url_fr); out.append(x)
     return out
 
-def main():
-    key = os.getenv("SERPAPI_KEY","").strip()
-    items = []
-    for src in SOURCES:
-        items += collect_rss(src, key) if src["mode"] == "rss" else collect_html_index(src, key)
-    items = dedup(items)
-    items.sort(key=lambda x: x.published_fr, reverse=True)
-    items = items[:160]
+def date_from_url(url):
+    path = urllib.parse.urlparse(url).path
+    m = re.search(r"/(20\d{2})-?(\d{2})[-/]?(\d{2})/", path)
+    if not m: return ""
+    value = "-".join(m.groups())
+    return value if parse_date(value) else ""
+
+
+def parse_date(value):
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value or ""): return None
+    try: return date.fromisoformat(value)
+    except ValueError: return None
+
+
+def is_article_url(url):
+    u = urllib.parse.urlparse(url)
+    return (u.scheme in {"https", "http"} and u.hostname in {"french.news.cn", "french.xinhuanet.com"}
+            and bool(re.search(r"/(?:c_[0-9]+\.htm|[a-f0-9]{32}/c\.html)$", u.path)))
+
+
+def select_recent(items, today, days=30):
+    cutoff = today - timedelta(days=days - 1)
+    accepted, counts = [], {"historical": 0, "unknown_date": 0, "future_date": 0, "invalid_url": 0}
+    for item in items:
+        if not is_article_url(item.url_fr): counts["invalid_url"] += 1; continue
+        published = parse_date(item.published_fr)
+        if not published: counts["unknown_date"] += 1
+        elif published > today: counts["future_date"] += 1
+        elif published < cutoff: counts["historical"] += 1
+        else: accepted.append(item)
+    return accepted, counts
+
+
+def merge_records(previous, fresh):
+    # Existing material stays available for historical classroom work.
+    # Verification lives in data/reviewed and is never written by this collector.
+    key = lambda r: r["url_fr"].replace("http://", "https://", 1)
+    merged = {key(r): dict(r) for r in previous}
+    for r in fresh:
+        k = key(r)
+        if k not in merged: merged[k] = r
+    return sorted(merged.values(), key=lambda r: r.get("published_fr", ""), reverse=True)
+
+
+def write_outputs(records):
     (ROOT/"data/rss").mkdir(parents=True, exist_ok=True)
     (ROOT/"data/candidates").mkdir(parents=True, exist_ok=True)
-    (ROOT/"data/rss/xinhua_fr_zh_candidates.json").write_text(json.dumps([asdict(x) for x in items], ensure_ascii=False, indent=2), encoding="utf-8")
+    payload = json.dumps(records, ensure_ascii=False, indent=2)
+    (ROOT/"data/rss/xinhua_fr_zh_candidates.json").write_text(payload, encoding="utf-8")
     with (ROOT/"data/candidates/xinhua_fr_zh_candidates.csv").open("w", encoding="utf-8-sig", newline="") as f:
-        fields = list(asdict(items[0]).keys()) if items else list(NewsCandidate.__dataclass_fields__.keys())
-        w = csv.DictWriter(f, fieldnames=fields); w.writeheader()
-        for item in items: w.writerow(asdict(item))
+        fields = list(NewsCandidate.__dataclass_fields__)
+        fields += sorted({key for r in records for key in r} - set(fields))
+        w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(records)
     (ROOT/"data/candidates/xinhua_fr_zh_candidates.js").write_text(
-        "window.XINHUA_FR_ZH_CANDIDATES = " + json.dumps([asdict(x) for x in items], ensure_ascii=False, indent=2) + ";\n",
-        encoding="utf-8")
-    print(f"[OK] Prepared {len(items)} candidate items.")
+        "window.XINHUA_FR_ZH_CANDIDATES = " + payload + ";\n", encoding="utf-8")
+
+
+def main():
+    key = os.getenv("SERPAPI_KEY", "").strip()
+    days = int(os.getenv("XINHUA_MAX_AGE_DAYS", "30"))
+    if days < 1: raise ValueError("XINHUA_MAX_AGE_DAYS must be positive")
+    today = datetime.now(timezone(timedelta(hours=8))).date()
+    items, reports = [], []
+    for src in SOURCES:
+        report = {"category": src["category"], "url": src["url"]}
+        try:
+            # Defer optional search until dates and URLs have passed validation.
+            found = collect_rss(src, "") if src["mode"] == "rss" else collect_html_index(src, "")
+            accepted, counts = select_recent(found, today, days)
+            items += accepted
+            report.update({"received": len(found), "eligible": len(accepted), **counts})
+            if not accepted: print(f"::warning::{src['category']}: no eligible articles in the last {days} days; existing data retained")
+        except Exception as exc:
+            report["error"] = type(exc).__name__
+            print(f"::warning::{src['category']}: collection failed ({type(exc).__name__}); existing data retained")
+        reports.append(report)
+    items = sorted(dedup(items), key=lambda x: x.published_fr, reverse=True)[:160]
+    fresh = [asdict(item) for item in items]
+    if key:
+        for row in fresh:
+            top = serpapi_search(row["zh_search_query_strict"], key)
+            for i, candidate in enumerate(top, 1):
+                row[f"zh_candidate_title_{i}"] = candidate["title"]
+                row[f"zh_candidate_url_{i}"] = candidate["url"]
+            if top: row["zh_match_status"] = "candidats automatiques à vérifier"
+    path = ROOT/"data/rss/xinhua_fr_zh_candidates.json"
+    previous = json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+    records = merge_records(previous, fresh)
+    # An empty/stale feed must not erase the last useful snapshot.
+    if records != previous or not path.exists(): write_outputs(records)
+    report = {"collected_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+              "max_age_days": days, "eligible_count": len(fresh), "stored_count": len(records),
+              "added_count": len(records) - len(previous), "sources": reports}
+    (ROOT/"data/rss").mkdir(parents=True, exist_ok=True)
+    (ROOT/"data/rss/collection_status.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"[OK] {len(fresh)} recent candidates; {len(records)} stored; reviewed records preserved separately.")
 
 if __name__ == "__main__":
     main()
