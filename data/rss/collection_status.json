@@ -1,0 +1,84 @@
+{
+  "collected_at": "2026-10-12T17:38:08+00:00",
+  "max_age_days": 30,
+  "eligible_count": 24,
+  "stored_count": 184,
+  "added_count": 24,
+  "sources": [
+    {
+      "category": "Chine",
+      "url": "https://french.news.cn/rss/chine.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Monde",
+      "url": "https://french.news.cn/rss/monde.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Afrique",
+      "url": "https://french.news.cn/rss/afrique.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Europe",
+      "url": "https://french.news.cn/europe/index.htm",
+      "received": 24,
+      "eligible": 24,
+      "historical": 0,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Culture",
+      "url": "https://french.news.cn/rss/culture.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Science",
+      "url": "https://french.news.cn/rss/science.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Economie",
+      "url": "https://french.news.cn/rss/economie.xml",
+      "received": 100,
+      "eligible": 0,
+      "historical": 100,
+      "unknown_date": 0,
+      "future_date": 0,
+      "invalid_url": 0
+    },
+    {
+      "category": "Environnement/Tourisme",
+      "url": "https://french.news.cn/rss/environnement.xml",
+      "error": "HTTPError"
+    }
+  ]
+}
