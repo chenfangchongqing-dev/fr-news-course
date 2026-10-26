@@ -1,45 +1,30 @@
 {
-  "collected_at": "2026-10-19T15:24:47+00:00",
+  "collected_at": "2026-10-26T15:01:03+00:00",
   "max_age_days": 30,
-  "eligible_count": 24,
+  "eligible_count": 0,
   "stored_count": 208,
-  "added_count": 24,
+  "added_count": 0,
   "sources": [
     {
       "category": "Chine",
       "url": "https://french.news.cn/rss/chine.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Monde",
       "url": "https://french.news.cn/rss/monde.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Afrique",
       "url": "https://french.news.cn/rss/afrique.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Europe",
       "url": "https://french.news.cn/europe/index.htm",
-      "received": 24,
-      "eligible": 24,
+      "received": 0,
+      "eligible": 0,
       "historical": 0,
       "unknown_date": 0,
       "future_date": 0,
@@ -48,37 +33,22 @@
     {
       "category": "Culture",
       "url": "https://french.news.cn/rss/culture.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Science",
       "url": "https://french.news.cn/rss/science.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Economie",
       "url": "https://french.news.cn/rss/economie.xml",
-      "received": 100,
-      "eligible": 0,
-      "historical": 100,
-      "unknown_date": 0,
-      "future_date": 0,
-      "invalid_url": 0
+      "error": "SSLError"
     },
     {
       "category": "Environnement/Tourisme",
       "url": "https://french.news.cn/rss/environnement.xml",
-      "error": "HTTPError"
+      "error": "SSLError"
     }
   ]
 }
