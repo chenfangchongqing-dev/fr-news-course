@@ -1,8 +1,8 @@
 {
-  "collected_at": "2026-11-02T18:03:22+00:00",
+  "collected_at": "2026-11-09T18:34:29+00:00",
   "max_age_days": 30,
   "eligible_count": 24,
-  "stored_count": 232,
+  "stored_count": 256,
   "added_count": 24,
   "sources": [
     {
