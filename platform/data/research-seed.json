@@ -1,0 +1,208 @@
+[
+  {
+    "id": "hal:hal-05161298",
+    "title": "La traduction journalistique au centre du jeu. Les corpus parallèles en arbitre",
+    "authors": [
+      "Raluca Nita"
+    ],
+    "year": 2024,
+    "journal": "HAL 会议文献记录",
+    "doi": "",
+    "url": "https://hal.science/hal-05161298v1",
+    "source": "HAL",
+    "topics": [
+      "新闻翻译",
+      "平行语料"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 HAL 官方检索 API 获取；元数据未提供 DOI 时留空；仅核验书目，摘要与全文未存入本地。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-05161298&fl=title_s,authFullName_s,producedDateY_i,journalTitle_s,doiId_s,uri_s&wt=json"
+  },
+  {
+    "id": "doi:10.4000/books.septentrion.31795",
+    "title": "Les enjeux de la traduction dans les agences de presse",
+    "authors": [
+      "Lucile Davier"
+    ],
+    "year": 2017,
+    "journal": "Presses universitaires du Septentrion",
+    "doi": "10.4000/books.septentrion.31795",
+    "url": "https://books.openedition.org/septentrion/31795",
+    "source": "OpenEdition",
+    "topics": [
+      "新闻翻译",
+      "框架理论",
+      "新闻生产"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 OpenEdition 官方元数据接口获取；年份取原始出版年，网络上架日期另存；仅核验书目，不代表全文评读或教师推荐。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://metadata.openedition.org/doi/10.4000/books.septentrion.31795?format=json",
+    "type": "book",
+    "onlineYear": 2019,
+    "license": "OpenEdition Books License",
+    "volume": ""
+  },
+  {
+    "id": "hal:hal-01908348",
+    "title": "Adaptation thématique pour la traduction automatique de dépêches de presse",
+    "authors": [
+      "Souhir Gahbiche-Braham",
+      "Hélène Bonneau-Maynard",
+      "François Yvon"
+    ],
+    "year": 2014,
+    "journal": "HAL 会议文献记录",
+    "doi": "",
+    "url": "https://hal.science/hal-01908348v1",
+    "source": "HAL",
+    "topics": [
+      "翻译技术",
+      "新闻翻译"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 HAL 官方检索 API 获取；元数据未提供 DOI 时留空；仅核验书目，摘要与全文未存入本地。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-01908348&fl=title_s,authFullName_s,producedDateY_i,journalTitle_s,doiId_s,uri_s&wt=json"
+  },
+  {
+    "id": "doi:10.4000/traduire.85",
+    "title": "Particularités de la traduction du texte de presse : le problème du titre journalistique",
+    "authors": [
+      "Carmen-Ecaterina Aştirbei"
+    ],
+    "year": 2011,
+    "journal": "Traduire",
+    "doi": "10.4000/traduire.85",
+    "url": "https://journals.openedition.org/traduire/85",
+    "source": "OpenEdition",
+    "topics": [
+      "新闻翻译",
+      "标题编译"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 OpenEdition 官方元数据接口获取；年份取原始出版年，网络上架日期另存；仅核验书目，不代表全文评读或教师推荐。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://metadata.openedition.org/doi/10.4000/traduire.85?format=json",
+    "type": "article-journal",
+    "onlineYear": 2014,
+    "license": "All rights reserved",
+    "volume": "225"
+  },
+  {
+    "id": "doi:10.4000/semen.2793",
+    "title": "Discours journalistique et positionnements énonciatifs. Frontières et dérives",
+    "authors": [
+      "Patrick Charaudeau"
+    ],
+    "year": 2006,
+    "journal": "Semen",
+    "doi": "10.4000/semen.2793",
+    "url": "https://journals.openedition.org/semen/2793",
+    "source": "OpenEdition",
+    "topics": [
+      "媒体话语分析",
+      "新闻框架",
+      "叙述立场"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 OpenEdition 官方元数据接口获取；年份取原始出版年，网络上架日期另存；仅核验书目，不代表全文评读或教师推荐。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://metadata.openedition.org/doi/10.4000/semen.2793?format=json",
+    "type": "article-journal",
+    "onlineYear": 2007,
+    "license": "CC-BY-4.0",
+    "volume": "22"
+  },
+  {
+    "id": "hal:hal-01227288",
+    "title": "La traduction du conditionnel journalistique : modes de construction de l’altérité énonciative en français, en allemand et en anglais",
+    "authors": [
+      "Agnès Celle"
+    ],
+    "year": 2001,
+    "journal": "HAL 会议文献记录",
+    "doi": "",
+    "url": "https://u-paris.hal.science/hal-01227288v1",
+    "source": "HAL",
+    "topics": [
+      "新闻翻译",
+      "引语与信息来源"
+    ],
+    "language": "fr",
+    "verification": "2026-11-21 从 HAL 官方检索 API 获取；元数据未提供 DOI 时留空；仅核验书目，摘要与全文未存入本地。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-01227288&fl=title_s,authFullName_s,producedDateY_i,journalTitle_s,doiId_s,uri_s&wt=json"
+  },
+  {
+    "id": "doi:10.1111/j.1460-2466.1993.tb01304.x",
+    "title": "Framing: Toward Clarification of a Fractured Paradigm",
+    "authors": [
+      "Robert M. Entman"
+    ],
+    "year": 1993,
+    "journal": "Journal of Communication",
+    "doi": "10.1111/j.1460-2466.1993.tb01304.x",
+    "url": "https://academic.oup.com/joc/article/43/4/51-58/4160153",
+    "source": "Crossref",
+    "topics": [
+      "框架理论",
+      "新闻翻译"
+    ],
+    "language": "en",
+    "verification": "2026-11-21 从 Crossref 官方 REST API 获取并核对题名、作者、年份和 DOI；仅核验书目，不代表全文评读或教师推荐。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://api.crossref.org/works/10.1111/j.1460-2466.1993.tb01304.x",
+    "volume": "43",
+    "issue": "4",
+    "pages": "51-58"
+  },
+  {
+    "id": "doi:10.1177/107769905002700403",
+    "title": "The “Gate Keeper”: A Case Study in the Selection of News",
+    "authors": [
+      "David Manning White"
+    ],
+    "year": 1950,
+    "journal": "Journalism Quarterly",
+    "doi": "10.1177/107769905002700403",
+    "url": "https://journals.sagepub.com/doi/10.1177/107769905002700403",
+    "source": "Crossref",
+    "topics": [
+      "把关理论",
+      "信息选择"
+    ],
+    "language": "en",
+    "verification": "2026-11-21 从 Crossref 官方 REST API 获取并核对题名、作者、年份和 DOI；仅核验书目，不代表全文评读或教师推荐。",
+    "metadataOnly": true,
+    "verificationStatus": "metadata_verified",
+    "recommendationStatus": "pending_teacher_review",
+    "retrievedAt": "2026-11-21",
+    "metadataUrl": "https://api.crossref.org/works/10.1177/107769905002700403",
+    "volume": "27",
+    "issue": "4",
+    "pages": "383-390"
+  }
+]

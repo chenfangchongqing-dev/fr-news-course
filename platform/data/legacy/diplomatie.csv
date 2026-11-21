@@ -1,0 +1,105 @@
+chinois,francais,categorie,registre,definition,contexte,equivalent_interpretation,note,source,date
+中华人民共和国驻外外交机构,missions diplomatiques de la République populaire de Chine à l’étranger,institution,formel,Ensemble des représentations diplomatiques chinoises à l’étranger,diplomatie,,总称，用于说明中国在外所有外交机构,mfa.gov.cn,2026-04
+使馆,ambassade,institution,formel,Représentation diplomatique d’un État auprès d’un autre État,diplomatie,,注意与 consulat 区分,mfa.gov.cn,2026-04
+领事馆,consulat,institution,formel,Représentation consulaire,consulaire,,泛称，包含总领馆和领事馆,mfa.gov.cn,2026-04
+总领事馆,consulat général,institution,formel,Consulat dirigé par un consul général,consulaire,,指总领馆时应使用该说法,mfa.gov.cn,2026-04
+驻外团、处,Missions aux organisations internationales et bureaux à l’étranger,institution,formel,Catégorie regroupant les missions chinoises auprès des organisations internationales et certains bureaux à l’étranger,multilatéral,,中国外交部法文页面常用分类,fmprc.gov.cn,2026-04
+中华人民共和国常驻联合国代表团,Mission permanente de la République populaire de Chine auprès des Nations Unies,institution,formel,Représentation permanente de la Chine auprès de l’ONU,multilatéral,,标准官方名称,fmprc.gov.cn,2026-04
+中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团,Mission permanente de la République populaire de Chine auprès de l’Office des Nations Unies à Genève et des autres organisations internationales en Suisse,institution,formel,Représentation permanente de la Chine à Genève,multilatéral,,标准官方名称,fmprc.gov.cn,2026-04
+中国常驻维也纳联合国和其他国际组织代表团,Mission permanente de la République populaire de Chine auprès de l’Office des Nations Unies et des autres organisations internationales à Vienne,institution,formel,Représentation permanente de la Chine à Vienne,multilatéral,,标准官方名称,fmprc.gov.cn,2026-04
+中国驻欧盟使团,Mission de la République populaire de Chine auprès de l’Union européenne,institution,formel,Représentation de la Chine auprès de l’UE,diplomatie régionale,,此类对象应使用 mission，不用 ambassade,fmprc.gov.cn,2026-04
+中国驻东盟使团,Mission de la République populaire de Chine auprès de l’ASEAN,institution,formel,Représentation de la Chine auprès de l’ASEAN,diplomatie régionale,,法语可见 ANASE，但国际语境中更常用 ASEAN,fmprc.gov.cn,2026-04
+中国驻非盟使团,Mission de la République populaire de Chine auprès de l’Union africaine,institution,formel,Représentation de la Chine auprès de l’UA,diplomatie régionale,,“非盟”对应 Union africaine,fmprc.gov.cn,2026-04
+大使,Ambassadeur,titre,formel,Représentant officiel d’un État auprès d’un autre État,diplomatie,l’ambassadeur,正式全称为 Ambassadeur extraordinaire et plénipotentiaire；实际使用和口译中通常简化为 Ambassadeur,ONU,2026-04
+特命全权大使,Ambassadeur extraordinaire et plénipotentiaire,titre,formel,Titre officiel complet d’un ambassadeur,diplomatie,l’ambassadeur,正式全称；实际使用中通常简化为 Ambassadeur,ONU,2026-04
+常驻代表,Représentant permanent,titre,formel,Représentant d’un État auprès d’une organisation internationale,multilatéral,le représentant,正式外交职衔，指驻国际组织代表,ONU,2026-04
+副常驻代表,Représentant permanent adjoint,titre,formel,Adjoint du représentant permanent,multilatéral,l’adjoint,用于国际组织代表体系,ONU,2026-04
+总领事,Consul général,titre,formel,Chef d’un consulat général,consulaire,le consul général,领事系统职衔,site officiel,2026-04
+副总领事,Consul général adjoint,titre,formel,Adjoint du consul général,consulaire,l’adjoint,领事系统职衔,site officiel,2026-04
+领事,Consul,titre,formel,Fonctionnaire consulaire,consulaire,le consul,领事系统职衔,site officiel,2026-04
+副领事,Vice-consul,titre,formel,Adjoint du consul,consulaire,le vice-consul,领事系统职衔,site officiel,2026-04
+公使,Ministre,titre,formel,Diplomate de rang inférieur à ambassadeur,diplomatie,le ministre,注意：此处指“公使”，不是政府“部长”,ONU,2026-04
+公使衔参赞,Ministre-conseiller,titre,formel,Conseiller ayant rang de ministre,diplomatie,le conseiller,固定外交职衔，不按字面理解,ONU,2026-04
+参赞,Conseiller,titre,formel,Diplomate chargé de missions spécifiques,diplomatie,le conseiller,使领馆常见职衔,ONU,2026-04
+一等秘书,Premier secrétaire,titre,formel,Diplomate de rang intermédiaire,diplomatie,le secrétaire,口译中通常可简化为 secrétaire,ONU,2026-04
+二等秘书,Deuxième secrétaire,titre,formel,Diplomate de rang intermédiaire,diplomatie,le secrétaire,口译中通常可简化为 secrétaire,ONU,2026-04
+三等秘书,Troisième secrétaire,titre,formel,Diplomate débutant,diplomatie,le secrétaire,口译中通常可简化为 secrétaire,ONU,2026-04
+随员,Attaché,titre,formel,Diplomate chargé de fonctions spécifiques,diplomatie,l’attaché,通常表示职能岗位，不仅是等级,ONU,2026-04
+武官/国防武官,Attaché militaire / Attaché de défense,titre,formel,Attaché chargé des affaires militaires,diplomatie,l’attaché militaire,属于职能岗位，不是单纯等级,ONU,2026-04
+文化参赞,Conseiller culturel,fonction,formel,Responsable des affaires culturelles,diplomatie,le conseiller culturel,属于岗位，不属于等级职衔,site officiel,2026-04
+新闻参赞,Conseiller de presse,fonction,formel,Responsable de la communication,diplomatie,le conseiller de presse,不要误译为 journaliste,site officiel,2026-04
+商务参赞,Conseiller commercial,fonction,formel,Responsable des affaires économiques,diplomatie économique,le conseiller commercial,属于经贸岗位,site officiel,2026-04
+特使,Envoyé spécial,titre,formel,Représentant chargé d’une mission spécifique,diplomatie,l’envoyé,当代外交中高频使用,ONU,2026-04
+地区经济处,service économique régional,service,formel,Service chargé des affaires économiques,diplomatie économique,le service économique,属于机构部门，不是职衔,cn.ambafrance.org,2026-04
+科技与高校合作处,service de coopération scientifique et universitaire,service,formel,Service de coopération scientifique,coopération,le service de coopération,属于机构部门，不是职衔,cn.ambafrance.org,2026-04
+地区主任（女）,directrice régionale,fonction,formel,Responsable régionale,fonction institutionnelle,la directrice régionale,机构岗位，不属于外交职衔,cn.ambafrance.org,2026-04
+地区主任（男）,directeur régional,fonction,formel,Responsable régional,fonction institutionnelle,le directeur régional,机构岗位，不属于外交职衔,cn.ambafrance.org,2026-04
+联合国大会,Assemblée générale des Nations Unies,institution,formel,Organe délibérant principal de l’Organisation des Nations Unies,multilatéral,l’Assemblée générale,联合国主要审议机构；常简称 Assemblée générale,un.org,2026-04
+联合国安全理事会,Conseil de sécurité des Nations Unies,institution,formel,Organe chargé de la responsabilité principale du maintien de la paix et de la sécurité internationales,multilatéral,le Conseil de sécurité,联合国主要机构之一；常简称 Conseil de sécurité,un.org,2026-04
+联合国秘书长,Secrétaire général de l’Organisation des Nations Unies,titre,formel,Plus haut fonctionnaire de l’Organisation des Nations Unies,multilatéral,le Secrétaire général,正式全称可完整写出；实际使用中常简称 Secrétaire général de l’ONU,un.org,2026-04
+联合国副秘书长,Vice-Secrétaire général de l’Organisation des Nations Unies,titre,formel,Adjoint principal du Secrétaire général de l’ONU,multilatéral,la / le Vice-Secrétaire général,注意与 Secrétaire général 区分,un.org,2026-04
+欧洲理事会,Conseil européen,institution,formel,Institution réunissant les chefs d’État ou de gouvernement des États membres de l’UE,diplomatie régionale,le Conseil européen,不要与 Conseil de l’Union européenne 混淆,consilium.europa.eu,2026-04
+欧洲理事会主席,président du Conseil européen,titre,formel,Président de l’institution réunissant les chefs d’État ou de gouvernement des États membres de l’UE,diplomatie régionale,le président du Conseil européen,职衔对应欧洲理事会，不是欧盟理事会,consilium.europa.eu,2026-04
+欧盟理事会,Conseil de l’Union européenne,institution,formel,Institution réunissant les ministres des gouvernements des États membres de l’UE,diplomatie régionale,le Conseil de l’UE,不要与 Conseil européen 混淆；常简称 le Conseil,consilium.europa.eu,2026-04
+欧盟理事会轮值主席国,présidence du Conseil de l’Union européenne,institution,formel,Système de présidence tournante assuré par les États membres du Conseil de l’UE,diplomatie régionale,la présidence du Conseil,指轮值主席机制，不是个人职衔,consilium.europa.eu,2026-04
+欧盟委员会,Commission européenne,institution,formel,Principale institution exécutive de l’Union européenne,diplomatie régionale,la Commission,欧盟机构，不是独立国际组织；分类应为 institution,commission.europa.eu,2026-04
+欧盟委员会主席,président de la Commission européenne,titre,formel,Président de la Commission européenne,diplomatie régionale,la présidente / le président de la Commission,对应欧盟委员会，不要与 président du Conseil européen 混淆,european-union.europa.eu,2026-04
+世界卫生大会,Assemblée mondiale de la Santé,institution,formel,Organe décisionnel suprême de l’Organisation mondiale de la Santé,santé mondiale,l’Assemblée mondiale de la Santé,属于 OMS 的治理机构，不是独立国际组织,who.int,2026-04
+世界卫生组织总干事,Directeur général de l’Organisation mondiale de la Santé,titre,formel,Chef de l’Organisation mondiale de la Santé,santé mondiale,le Directeur général de l’OMS,注意不是 Secrétaire général,who.int,2026-04
+国际法院,Cour internationale de Justice (CIJ),institution judiciaire internationale,formel,Organe judiciaire principal de l’Organisation des Nations Unies,justice internationale,la CIJ,联合国主要司法机关；不要与 CPI 混淆,icj-cij.org,2026-04
+国际法院法官,juge à la Cour internationale de Justice,titre,formel,Juge siégeant à la Cour internationale de Justice,justice internationale,la juge / le juge,如需完整写法可保留 à la Cour internationale de Justice,icj-cij.org,2026-04
+国际刑事法院,Cour pénale internationale (CPI),institution judiciaire internationale,formel,Juridiction pénale internationale chargée de juger les crimes les plus graves,justice internationale,la CPI,不是联合国主要机构；不要与 CIJ 混淆,icc-cpi.int,2026-04
+国际刑事法院检察官,Procureur de la Cour pénale internationale,titre,formel,Procureur exerçant les poursuites devant la Cour pénale internationale,justice internationale,le Procureur de la CPI,对应国际刑事法院体系,icc-cpi.int,2026-04
+联合国,Organisation des Nations Unies (ONU),organisation internationale,formel,Organisation internationale fondée en 1945,multilatéral,l’ONU,最常用缩写为 ONU,un.org,2026-04
+联合国系统,système des Nations Unies,organisation internationale,formel,"Ensemble formé par l’ONU et les fonds, programmes et institutions spécialisées",multilatéral,le système onusien,可与 ONU 本身区分,un.org,2026-04
+欧盟,Union européenne (UE),organisation régionale,formel,Organisation politique et économique européenne,diplomatie régionale,l’UE,最常用缩写为 UE,europa.eu,2026-04
+欧盟委员会,Commission européenne,institution,formel,Principal organe exécutif de l’Union européenne,diplomatie régionale,la Commission,这是欧盟机构，不是独立国际组织,commission.europa.eu,2026-04
+世界贸易组织,Organisation mondiale du commerce (OMC),organisation internationale,formel,Organisation chargée des règles du commerce international,commerce international,l’OMC,最常用缩写为 OMC,wto.org,2026-04
+国际货币基金组织,Fonds monétaire international (FMI),organisation internationale,formel,Organisation chargée de promouvoir la coopération monétaire et la stabilité financière,finance internationale,le FMI,最常用缩写为 FMI,imf.org,2026-04
+世界银行集团,Groupe de la Banque mondiale,organisation internationale,formel,Groupe d’institutions multilatérales de développement,développement,la Banque mondiale,注意与 Banque mondiale（狭义）区分,worldbank.org,2026-04
+世界卫生组织,Organisation mondiale de la Santé (OMS),organisation internationale,formel,Institution spécialisée de l’ONU pour la santé publique,santé mondiale,l’OMS,最常用缩写为 OMS,who.int,2026-04
+联合国教科文组织,"Organisation des Nations unies pour l’éducation, la science et la culture (UNESCO)",organisation internationale,formel,"Institution spécialisée de l’ONU dans les domaines de l’éducation, de la science et de la culture",éducation culture,l’UNESCO,UNESCO 常直接保留缩写,unesco.org,2026-04
+经济合作与发展组织,Organisation de coopération et de développement économiques (OCDE),organisation internationale,formel,Organisation internationale de coopération économique,économie internationale,l’OCDE,最常用缩写为 OCDE,oecd.org,2026-04
+非洲联盟,Union africaine (UA),organisation régionale,formel,Organisation continentale regroupant les États africains,diplomatie régionale,l’UA,最常用缩写为 UA,au.int,2026-04
+非洲统一组织,Organisation de l’Unité africaine (OUA),organisation régionale,formel,Ancienne organisation continentale africaine remplacée par l’Union africaine,historique,l’OUA,历史术语，注意与 UA 区分,au.int,2026-04
+国际劳工组织,Organisation internationale du Travail (OIT),organisation internationale,formel,Organisation spécialisée consacrée au travail et à la justice sociale,travail social,l’OIT,最常用缩写为 OIT,ilo.org,2026-04
+联合国粮农组织,Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO),organisation internationale,formel,Organisation spécialisée de l’ONU pour l’alimentation et l’agriculture,agriculture alimentation,la FAO,FAO 在法语中通常直接保留缩写,fao.org,2026-04
+国际原子能机构,Agence internationale de l’énergie atomique (AIEA),organisation internationale,formel,Organisation internationale de coopération dans le domaine nucléaire,nucléaire,l’AIEA,最常用缩写为 AIEA,iaea.org,2026-04
+国际刑事法院,Cour pénale internationale (CPI),organisation judiciaire internationale,formel,Cour chargée de juger les crimes les plus graves de portée internationale,justice internationale,la CPI,这是国际法院，不属于一般意义上的政府间组织,icc-cpi.int,2026-04
+联合国经济及社会理事会,Conseil économique et social des Nations Unies (ECOSOC),institution,formel,"Organe principal des Nations Unies chargé des questions économiques, sociales et de développement",multilatéral,l’ECOSOC,联合国主要机构之一；法语中也常直接用缩写 ECOSOC,un.org,2026-04
+联合国秘书处,Secrétariat de l’Organisation des Nations Unies,institution,formel,Organe administratif principal de l’ONU,multilatéral,le Secrétariat,属于联合国主要机构之一；不要与 Secrétaire général 混淆,un.org,2026-04
+联合国秘书处办公厅,Cabinet du Secrétaire général,institution,formel,Structure de travail directement rattachée au Secrétaire général,multilatéral,le Cabinet,属于秘书长办公体系，不是独立机构,un.org,2026-04
+联合国经济及社会理事会主席,président du Conseil économique et social,titre,formel,Président de l’ECOSOC,multilatéral,le président de l’ECOSOC,对应经社理事会，不要与联合国大会主席混淆,un.org,2026-04
+联合国大会主席,président de l’Assemblée générale,titre,formel,Président de l’Assemblée générale des Nations Unies,multilatéral,le président de l’Assemblée générale,对应联大，不要与秘书长混淆,un.org,2026-04
+联合国安理会主席,président du Conseil de sécurité,titre,formel,Président en exercice du Conseil de sécurité,multilatéral,la présidence du Conseil,安理会主席按月轮换；很多场合更常说 présidence du Conseil de sécurité,un.org,2026-04
+世界卫生组织执行委员会,Conseil exécutif de l’Organisation mondiale de la Santé,institution,formel,Organe exécutif de l’OMS chargé de donner effet aux décisions de l’Assemblée mondiale de la Santé,santé mondiale,le Conseil exécutif de l’OMS,属于世卫组织治理机构，不是独立国际组织,who.int,2026-04
+世界卫生组织执行委员会主席,président du Conseil exécutif de l’OMS,titre,formel,Président du Conseil exécutif de l’Organisation mondiale de la Santé,santé mondiale,le président du Conseil exécutif,对应执行委员会，不要与世界卫生大会主席混淆,who.int,2026-04
+欧盟外交与安全政策高级代表,Haut Représentant de l’Union pour les affaires étrangères et la politique de sécurité,titre,formel,Responsable de la coordination de la politique étrangère et de sécurité de l’Union européenne,diplomatie régionale,le Haut Représentant,固定官方职称；不要简化成 simple représentant,european-union.europa.eu,2026-04
+欧洲议会,Parlement européen,institution,formel,Institution parlementaire de l’Union européenne,diplomatie régionale,le Parlement européen,欧盟机构；不要与 Conseil de l’Union européenne 混淆,europarl.europa.eu,2026-04
+欧洲议会议长,président du Parlement européen,titre,formel,Président du Parlement européen,diplomatie régionale,la présidente / le président du Parlement,对应欧洲议会，不要与欧盟委员会主席混淆,europarl.europa.eu,2026-04
+欧洲联盟法院,Cour de justice de l’Union européenne (CJUE),institution judiciaire régionale,formel,Institution judiciaire de l’Union européenne,justice régionale,la CJUE,欧盟司法机构；不要与 CIJ 或 CPI 混淆,curia.europa.eu,2026-04
+欧盟法院院长,président de la Cour de justice de l’Union européenne,titre,formel,Président de la Cour de justice de l’Union européenne,justice régionale,la présidente / le président de la Cour,对应欧盟法院体系,curia.europa.eu,2026-04
+国际法院院长,président de la Cour internationale de Justice,titre,formel,Président de la Cour internationale de Justice,justice internationale,la présidente / le président de la CIJ,对应国际法院；不要与国际刑事法院院长混淆,icj-cij.org,2026-04
+国际法院副书记官,greffier adjoint de la Cour internationale de Justice,titre,formel,Adjoint du greffier de la Cour internationale de Justice,justice internationale,le greffier adjoint,greffier 是书记官，不是 juge,icj-cij.org,2026-04
+国际法院书记官,greffier de la Cour internationale de Justice,titre,formel,Chef du greffe de la Cour internationale de Justice,justice internationale,le greffier,greffier 指书记官系统，不是法官,icj-cij.org,2026-04
+国际刑事法院院长,président de la Cour pénale internationale,titre,formel,Président de la Cour pénale internationale,justice internationale,la présidente / le président de la CPI,对应国际刑事法院；不要与国际法院院长混淆,icc-cpi.int,2026-04
+国际刑事法院第一副院长,premier vice-président de la Cour pénale internationale,titre,formel,Premier vice-président de la Cour pénale internationale,justice internationale,le premier vice-président,对应 CPI 领导层体系,icc-cpi.int,2026-04
+国际刑事法院第二副院长,deuxième vice-président de la Cour pénale internationale,titre,formel,Deuxième vice-président de la Cour pénale internationale,justice internationale,le deuxième vice-président,对应 CPI 领导层体系,icc-cpi.int,2026-04
+联合国人权理事会,Conseil des droits de l’homme,institution,formel,Organe intergouvernemental des Nations Unies chargé de la promotion et de la protection des droits de l’homme,droits de l’homme,le Conseil des droits de l’homme,联合国人权机构；不要与“人权事务高级专员办事处”混淆,un.org,2026-04
+联合国人权理事会主席,président du Conseil des droits de l’homme,titre,formel,Président du Conseil des droits de l’homme,droits de l’homme,la présidence du Conseil,对应人权理事会，不是联合国秘书处职衔,un.org,2026-04
+联合国难民署,Haut Commissariat des Nations Unies pour les réfugiés (HCR),organisation internationale,formel,Organe des Nations Unies chargé de la protection des réfugiés et des personnes déplacées,réfugiés,le HCR,法语中最常直接用 HCR；不要按字面误解为普通“署”,unhcr.org,2026-04
+联合国难民事务高级专员,Haut Commissaire des Nations Unies pour les réfugiés,titre,formel,Chef du Haut Commissariat des Nations Unies pour les réfugiés,réfugiés,le Haut Commissaire,对应 HCR 负责人；不要与“人权高专”混淆,unhcr.org,2026-04
+联合国开发计划署,Programme des Nations Unies pour le développement (PNUD),organisation internationale,formel,Programme des Nations Unies consacré au développement,développement,le PNUD,法语常用缩写 PNUD；注意 programme 不是机构等级称谓,undp.org,2026-04
+联合国开发计划署署长,Administrateur du Programme des Nations Unies pour le développement,titre,formel,Chef du Programme des Nations Unies pour le développement,développement,l’Administrateur du PNUD,PNUD 负责人通常称 Administrateur，不用 Directeur général,undp.org,2026-04
+欧盟对外行动署,Service européen pour l’action extérieure (SEAE),institution,formel,Service diplomatique de l’Union européenne,diplomatie régionale,le SEAE,欧盟对外与外交执行机构；不是独立国际组织,eeas.europa.eu,2026-04
+欧盟驻外代表团,Délégation de l’Union européenne,institution,formel,Représentation extérieure de l’Union européenne,diplomatie régionale,la Délégation de l’UE,属于 SEAE 体系中的对外代表机构,eeas.europa.eu,2026-04
+国际海事组织,Organisation maritime internationale (OMI),organisation internationale,formel,Institution spécialisée des Nations Unies chargée de la sécurité et de la sûreté maritimes et de la prévention de la pollution marine,transport maritime,l’OMI,联合国专门机构；最常用缩写为 OMI,imo.org,2026-04
+国际海事组织秘书长,Secrétaire général de l’Organisation maritime internationale,titre,formel,Chef de l’Organisation maritime internationale,transport maritime,le Secrétaire général de l’OMI,对应 OMI 负责人；不要与 ONU 秘书长混淆,imo.org,2026-04
+国际海事组织大会,Assemblée de l’Organisation maritime internationale,institution,formel,Organe plénier de l’Organisation maritime internationale,transport maritime,l’Assemblée de l’OMI,属于 OMI 内部机构，不是独立组织,imo.org,2026-04
+国际民航组织,Organisation de l’aviation civile internationale (OACI),organisation internationale,formel,Organisme des Nations Unies chargé de la coopération internationale en matière d’aviation civile,aviation civile,l’OACI,联合国体系机构；最常用缩写为 OACI,icao.int,2026-04
+国际民航组织大会,Assemblée de l’OACI,institution,formel,Organe plénier de l’Organisation de l’aviation civile internationale,aviation civile,l’Assemblée de l’OACI,属于 OACI 内部治理机构，不是独立国际组织,icao.int,2026-04
+国际民航组织理事会,Conseil de l’OACI,institution,formel,Organe directeur permanent de l’Organisation de l’aviation civile internationale,aviation civile,le Conseil de l’OACI,对应 OACI 内部机构；不要与 Conseil européen 或 Conseil de l’Union européenne 混淆,icao.int,2026-04
+国际民航组织理事会主席,Président du Conseil de l’OACI,titre,formel,Président du Conseil de l’Organisation de l’aviation civile internationale,aviation civile,le Président du Conseil,对应 OACI 理事会，不是 OACI 秘书长,icao.int,2026-04
+国际民航组织秘书长,Secrétaire général de l’OACI,titre,formel,Chef du Secrétariat de l’Organisation de l’aviation civile internationale,aviation civile,le Secrétaire général de l’OACI,对应 OACI 秘书处负责人；不要与 Président du Conseil de l’OACI 混淆,icao.int,2026-04
+国际民航组织秘书长,Secrétaire général de l’OACI,titre,formel,Chef du Secrétariat de l’Organisation de l’aviation civile internationale,aviation civile,le Secrétaire général de l’OACI,对应 OACI 秘书处负责人；不要与 Président du Conseil de l’OACI 混淆,icao.int,2026-04
+
