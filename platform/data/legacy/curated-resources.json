@@ -1,0 +1,73 @@
+[
+  {
+    "id": "term-2024-tac",
+    "type": "term",
+    "title": "新质生产力 · 官方法语术语",
+    "zh": "新质生产力",
+    "fr": "forces productives de nouvelle qualité",
+    "source": "中国翻译协会 · 第40届中译法研讨会",
+    "date": "2024-06-25",
+    "url": "https://www.tac-online.org.cn/2024-06/25/content_42913185.html",
+    "relation": "术语对应",
+    "verification": "verified",
+    "note": "会议成果公布的推荐译法；不是整篇文章的平行对应。",
+    "task": "比较术语与政策文本、新闻标题中的实际组合方式。"
+  },
+  {
+    "id": "term-2024-hotwords",
+    "type": "term",
+    "title": "新质生产力 · 年度新词热词法文译法",
+    "zh": "新质生产力",
+    "fr": "Les forces productives de nouvelle qualité",
+    "source": "中国翻译协会、中国外文局翻译院",
+    "date": "2024-01-01",
+    "url": "https://www.tac-online.org.cn/2024-01/01/content_42914318.html",
+    "relation": "术语对应",
+    "verification": "verified",
+    "note": "原文带定冠词 Les；检索时支持有无冠词。",
+    "task": "观察术语单列时的定冠词形式以及嵌入完整句子的变化。"
+  },
+  {
+    "id": "parallel-2025-report",
+    "type": "parallel",
+    "title": "2025年《政府工作报告》要点版 · 中法对照",
+    "zh": "因地制宜发展新质生产力，加快建设现代化产业体系。",
+    "fr": "Développer les forces productives de nouvelle qualité en fonction des conditions de chaque région, accélérer la mise en place d’un système industriel moderne.",
+    "source": "中央党史和文献研究院译 · 淄博市外办发布PDF",
+    "date": "2025-03-05",
+    "url": "https://fao.zibo.gov.cn/module/download/downfile.jsp?classid=0&filename=2eef6eb38dd344d5bab6128c6b74d413.pdf",
+    "relation": "官方同源句段平行",
+    "verification": "verified",
+    "note": "两个片段位于同一中法对照报告中，属于句段对应。",
+    "task": "讨论“因地制宜”的语法重构，并与面向法语受众的新闻导语比较。"
+  },
+  {
+    "id": "news-2026-xinhua",
+    "type": "news",
+    "title": "La Chine publie des lignes directrices sur le développement des forces productives de nouvelle qualité",
+    "zh": "关于发展新质生产力的政策发布（中文为检索主题提示，并非核验后的中文对应标题）",
+    "fr": "La Chine publie des lignes directrices sur le développement des forces productives de nouvelle qualité",
+    "source": "新华社法文版",
+    "date": "2026-10-10",
+    "url": "https://french.news.cn/20261010/3caabe29a88f4ec99f3d06d90e136b3e/c.html",
+    "relation": "法语新闻单篇；中文对应稿未核验",
+    "verification": "partial",
+    "note": "法语报道的标题、发布日期和原文链接已核对；此条不应标为“汉法平行语料”。",
+    "task": "定位法语新闻标题核心信息，检索原始中文发布材料并核对人物、时间、数字与事件。"
+  },
+  {
+    "id": "news-2026-canton",
+    "type": "news",
+    "title": "Du thé et de la soie aux produits d'IA : 70 ans de « fabriqué en Chine » à la Foire de Canton",
+    "zh": "新质生产力在广交会报道中的应用（主题标签，非中文原文）",
+    "fr": "A la foire, les forces productives de nouvelle qualité se sont imposées comme le mot-clé le plus en vue.",
+    "source": "新华社法文版",
+    "date": "2026-10-21",
+    "url": "https://french.news.cn/20261021/d7c6853e1cad408e87c94cd8ae62e22a/c.html",
+    "relation": "法语新闻语境实例",
+    "verification": "partial",
+    "note": "已核对法语原文中的用例；没有建立与中文文章的一一对应关系。",
+    "task": "比较政策术语在政务报道和产业新闻中的信息功能。"
+  }
+]
+
